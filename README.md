@@ -63,7 +63,7 @@ This dashboard is designed to answer the following business questions:
 ---
 
 ## 🖼 Dashboard Preview
-![Car Loan Dashboard](CAR LOAN DAHSBOARD.png)
+![Car Loan Dashboard](CAR LOAN DAHSBOARD.png) 
 
 
 ---
