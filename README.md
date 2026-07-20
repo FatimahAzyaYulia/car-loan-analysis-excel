@@ -76,7 +76,6 @@ car-loan-dashboard/
 ├── README.md
 ├── Car_Loan_Dashboard.xlsx
 └── dashboard.png
-└── dataset
 
 ```
 
